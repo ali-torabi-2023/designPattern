@@ -6,6 +6,7 @@ public class Main {
         System.out.println("age:"+lion.age());
         System.out.println("color:"+lion.color());
 
+
         Animal bear = AnimalFactory.getAnimal("bear");
         System.out.println();
         System.out.println("animal: " + bear.getType());

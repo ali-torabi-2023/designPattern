@@ -1,9 +1,8 @@
-package org.LandAnimal;
+package org.landAnimal;
 
 public interface MarineAnimal {
     String name();
     String color();
     Integer age();
-    String getClassName();
 
 }

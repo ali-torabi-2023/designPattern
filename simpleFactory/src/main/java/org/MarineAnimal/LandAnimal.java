@@ -1,4 +1,4 @@
-package org.MarineAnimal;
+package org.marineAnimal;
 
 public interface LandAnimal {
     String name();

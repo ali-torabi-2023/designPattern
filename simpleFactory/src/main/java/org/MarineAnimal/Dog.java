@@ -1,4 +1,4 @@
-package org.MarineAnimal;
+package org.marineAnimal;
 
 public class Dog implements LandAnimal {
 

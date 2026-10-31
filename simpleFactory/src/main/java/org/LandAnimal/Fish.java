@@ -1,4 +1,4 @@
-package org.LandAnimal;
+package org.landAnimal;
 
 public class Fish implements MarineAnimal{
     @Override
@@ -16,8 +16,4 @@ public class Fish implements MarineAnimal{
         return 2;
     }
 
-    @Override
-    public String getClassName() {
-        return "org.simpleFactory.LandAnimal.Fish";
-    }
 }

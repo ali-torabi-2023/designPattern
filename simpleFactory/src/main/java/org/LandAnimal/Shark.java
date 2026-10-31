@@ -1,4 +1,4 @@
-package org.LandAnimal;
+package org.landAnimal;
 
 public class Shark implements MarineAnimal {
     @Override
@@ -14,10 +14,5 @@ public class Shark implements MarineAnimal {
     @Override
     public Integer age() {
         return 7;
-    }
-
-    @Override
-    public String getClassName() {
-        return "org.simpleFactory.LandAnimal.Shark";
     }
 }
